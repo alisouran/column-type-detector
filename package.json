@@ -29,8 +29,7 @@
   "homepage": "https://github.com/alisouran/column-type-detector#readme",
   "dependencies": {
     "moment": "^2.29.4",
-    "papaparse": "^5.4.1",
-    "xlsx": "^0.18.5"
+    "papaparse": "^5.4.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.22.10",
